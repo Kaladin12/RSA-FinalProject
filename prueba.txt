@@ -1,0 +1,10 @@
+22
+1471 1776 903 1237 1776 419 1243 344 344 250 903 58 1340 521 105 1340 903 1340 1243 617 1340 250
+hacia
+1961
+
+CLAVE:
+Phi = 1872
+d = 629
+e = 125
+Mensaje Desencriptado: No voltees hacia atras
